@@ -9,7 +9,7 @@ How does your application know what view to render to users? This is where routi
 
 In this lesson we're going to specifically cover static pages to ensure that you can get a firm understanding of how routing works in a Rails application.
 
-Before we dive into the code and routing configurations, it helps to know how HTTP works at a high level. Below is the flow that takes place when a user attempts to go to a page on a Rails application:
+Before we dive int165.227.81.218:43892o the code and routing configurations, it helps to know how HTTP works at a high level. Below is the flow that takes place when a user attempts to go to a page on a Rails application:
 
 1. A URL is entered into the browser; this is the HTTP request
 2. That request is sent to the server where the application's router interprets the request and sends a message to the controller mapped to that route
